@@ -1,3 +1,3 @@
-# SVD-Prune: Unified Low-Rank Token Pruning for Vision-Language andVision-Language-Action Models  
+# SVD-Prune: Spectral Vision Token Pruning under Extreme Compression
 > Code coming soon.
 
